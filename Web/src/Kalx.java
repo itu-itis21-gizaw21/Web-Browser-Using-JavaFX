@@ -9,7 +9,6 @@ public class Kalx {
         Scanner input = new Scanner(url.openStream());
         while (input.hasNext()) {
             String line = input.nextLine();
-            //System.out.println("xxxxxxxxxx");
             //System.out.println(line);
             System.out.println(line);
         }
