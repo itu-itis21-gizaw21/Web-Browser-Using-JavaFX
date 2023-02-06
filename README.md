@@ -1,5 +1,5 @@
 # Web-Browser-Using-JavaFX
-This project is to build a web browser using Java's JavaFX library. I am uploading it because of an unrelented request from my friend.
+This project is to build a web browser using Java's JavaFX library. I am uploading it because of unrelented request from my friend.
 
 I run the project using Intellij IDE and make sure to include JavaFX in the project and configure the VM options as --module-path ${PATH_TO_FX} --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.web
 
